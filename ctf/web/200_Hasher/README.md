@@ -5,7 +5,7 @@ You would be presented with this interface:
 
 ![Interface](web200_1.JPG)
 
-Basically you had an input textbox and when you submited the value the server whould return the sha256sum of that value.
+Basically you had an input textbox and when you submited the value the server would return the sha256sum of that value.
 
 If you tried several characters, you would notice that the char ";" and "|" makes the page to no longer return the hash. This may indicate that we are dealing with some sort of Command Injection.
 
