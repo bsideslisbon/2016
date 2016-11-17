@@ -5,7 +5,7 @@ You would be presented with this interface:
 
 ![Interface](web200_1.JPG)
 
-Basically you had an input textbox and when you submited the value the server whould return the sha256sum of that value.
+Basically you had an input textbox and when you submited the value the server would return the sha256sum of that value.
 
 This is the source of the index.php file:
 
