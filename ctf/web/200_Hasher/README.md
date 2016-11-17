@@ -3,7 +3,7 @@
 
 You would be presented with this interface:
 
-[logo]: web200_1.JPG "Logo Title Text 2"
+![logo](web200_1.JPG) "Image1"
 
 Basically you had an input textbox and when you submited the value the server whould return the sha256sum of that value.
 
