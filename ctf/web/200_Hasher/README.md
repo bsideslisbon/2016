@@ -1,7 +1,9 @@
 # 200 - Hasher
 ## One of my colleagues at All Safe ask me to test it's new algorithm. https://ctf.bsideslisbon.org/2cbusl1v1oigb4gu/
 
-You would be presented with this interface.
+You would be presented with this interface:
+
+[logo]: web200_1.JPG "Logo Title Text 2"
 
 Basically you had an input textbox and when you submited the value the server whould return the sha256sum of that value.
 
