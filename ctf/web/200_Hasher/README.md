@@ -3,7 +3,7 @@
 
 You would be presented with this interface:
 
-![logo](web200_1.JPG) "Image1"
+![Interface](web200_1.JPG)
 
 Basically you had an input textbox and when you submited the value the server whould return the sha256sum of that value.
 
@@ -36,7 +36,11 @@ As you can see, this code is vulnerable to Code Injection.
 
 If tried the input "xpto;ls;xpto" the server would return:
 
+![Interface2](web200_2.JPG)
+
 With this you could then do "xpto;ls this_is_my_super_secret_directory_impossible_to_brute_force;xpto" and find out that there is a flag.txt file inside that directory.
+
+![Interface2](web200_3.JPG)
 
 Reading the content of the file you would get "everybody_loves_command_injection"
 
