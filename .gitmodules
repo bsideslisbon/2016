@@ -1,0 +1,3 @@
+[submodule "talks/Keynote_DinisCruz_Hacking_Portugal"]
+	path = talks/Keynote_DinisCruz_Hacking_Portugal
+	url = git@github.com:DinisCruz/Book_Hacking_Portugal
