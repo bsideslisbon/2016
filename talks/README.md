@@ -43,5 +43,5 @@
 ### [Slides](https://github.com/bsideslisbon/2016/blob/master/talks/DimaBekerman_Brace_YoSelf_DDoS_is_Coming.pdf)
 ### [Video](https://www.youtube.com/watch?v=2QJ7yGVxUXk)
 ## Tiago Carvalho - Lightning Talk: Password Profiling
-### [Slides](#)
+### [Slides](https://github.com/bsideslisbon/2016/blob/master/talks/TiagoAlexandre_Password_Profiling.pdf)
 ### [Video](https://www.youtube.com/watch?v=ISjXpYfnnMw)
