@@ -33,6 +33,15 @@
 ## Bárbara Vieira - Challenges of Secure Coding
 ### [Slides](https://github.com/bsideslisbon/2016/blob/master/talks/BarbaraVieira_Challenges_of_Secure_Coding.pdf)
 ### [Video](https://www.youtube.com/watch?v=kWCEIXctyKE)
+## Francisco Ribeiro - Hacking Python
+### [Slides]()
+### [Video]()
+## Filipe Bernardo - Attackers Gh0st st0ries
+### [Slides]()
+### [Video]()
 ## Dima Bekerman - Brace YoSelf: DDoS is Coming
 ### [Slides](https://github.com/bsideslisbon/2016/blob/master/talks/DimaBekerman_Brace_YoSelf_DDoS_is_Coming.pdf)
 ### [Video](https://www.youtube.com/watch?v=2QJ7yGVxUXk)
+## Tiago Carvalho - Lightning Talk: Password Profiling
+### [Slides]()
+### [Video](https://www.youtube.com/watch?v=ISjXpYfnnMw)
