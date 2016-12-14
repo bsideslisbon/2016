@@ -1,8 +1,8 @@
 # Talks
 
-## Dan Guido - The Smart Fuzzer Revolution (Soon)
-### [Slides](#)
-### [Video](#)
+## Dan Guido - The Smart Fuzzer Revolution
+### [Slides](#) Soon
+### [Video](#) Soon
 ## Diniz Cruz - Hacking Portugal and making it a global player in Software development
 ### [Slides](https://github.com/DinisCruz/Book_Hacking_Portugal/tree/4c299681c72d88e2c5ff70d9f1f78e76ee231d0a)
 ### [Video](https://www.youtube.com/watch?v=gYuKs30HxqE)
@@ -34,11 +34,7 @@
 ### [Slides](https://github.com/bsideslisbon/2016/blob/master/talks/BarbaraVieira_Challenges_of_Secure_Coding.pdf)
 ### [Video](https://www.youtube.com/watch?v=kWCEIXctyKE)
 ## Francisco Ribeiro - Hacking Python
-### [Slides](#)
-### [Video](#)
-## Filipe Bernardo - Attackers Gh0st st0ries
-### [Slides](#)
-### [Video](#)
+### [Slides](#) Soon
 ## Dima Bekerman - Brace YoSelf: DDoS is Coming
 ### [Slides](https://github.com/bsideslisbon/2016/blob/master/talks/DimaBekerman_Brace_YoSelf_DDoS_is_Coming.pdf)
 ### [Video](https://www.youtube.com/watch?v=2QJ7yGVxUXk)
